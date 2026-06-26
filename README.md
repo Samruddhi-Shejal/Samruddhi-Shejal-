@@ -1,59 +1,95 @@
-# Hi there! 👋 I'm Samruddhi Shejal
+# Hi there! I'm Samruddhi Shejal
 
-## Aspiring Data Analyst | Excel | SQL | Power BI | Python
+## Aspiring Data Analyst
 
-I'm a Computer Engineering graduate passionate about data analysis and visualization. I enjoy cleaning data, building interactive dashboards, and transforming raw data into meaningful business insights.
+I'm a Computer Engineering graduate with a strong interest in Data Analytics. I enjoy transforming raw data into meaningful insights through data cleaning, visualization, and dashboard development.
 
----
-
-## 🛠️ Skills
-
-- 📊 Excel (Pivot Tables, Power Query, Power Pivot, VLOOKUP, IF Functions)
-- 🗄️ SQL (Joins, CTEs, Subqueries, Aggregate Functions)
-- 📈 Power BI (DAX, Data Modeling, Dashboards)
-- 🐍 Python (Pandas, NumPy, Matplotlib)
+I'm continuously improving my skills by building real-world projects using Excel, SQL, Power BI, and Python.
 
 ---
 
-## 📂 Projects
+## Technical Skills
 
-### 🚗 Road Accident Analysis Dashboard
-- Data Cleaning using Power Query
-- Interactive Excel Dashboard
+### Data Analysis
+- Data Cleaning
+- Data Validation
+- Dashboard Development
 - KPI Reporting
-- Trend Analysis
+- Data Visualization
 
-### 🏥 Hospital Performance Dashboard
-- Power BI Dashboard
-- DAX Measures
-- Patient & Hospital Performance Analysis
-- Interactive Visualizations
+### Excel
+- Pivot Tables
+- Power Query
+- Power Pivot
+- VLOOKUP
+- IF Functions
+
+### SQL
+- Joins
+- Subqueries
+- Common Table Expressions (CTEs)
+- Aggregate Functions
+
+### Power BI
+- DAX
+- Data Modeling
+- Interactive Dashboards
+- KPI Cards
+- Slicers & Filters
+
+### Python
+- Pandas
+- NumPy
+- Matplotlib
 
 ---
 
-## 🎓 Education
+## Featured Projects
 
-**B.E. Computer Engineering**
+### Road Accident Analysis Dashboard
+- Cleaned and transformed accident data using Power Query.
+- Built an interactive Excel dashboard.
+- Performed trend analysis on accident severity, vehicle types, weather conditions, and road types.
+- Generated KPI reports for data-driven insights.
+
+### Hospital Performance Dashboard
+- Designed an interactive Power BI dashboard.
+- Analyzed patient demographics and hospital performance.
+- Built dynamic reports using DAX, slicers, and data modeling.
+- Conducted inpatient vs outpatient and monthly trend analysis.
+
+---
+
+## Education
+
+**B.E. Computer Engineering**  
 SVPM's College of Engineering, Baramati
-CGPA: **7.90**
+
+**CGPA:** 7.90
 
 ---
 
-## 🌱 Currently Learning
+## Certification
 
-- Advanced SQL
-- Python for Data Analysis
+**Data Analyst Certification**  
+UV Technocrats and Solutions (2025)
+
+**Topics Covered:**
+- SQL
+- Advanced Excel
 - Power BI
-- Real-world Data Analytics Projects
+- Python
+- Dashboard Development
+- Data Visualisation 
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 **Email:** samruddhishejal913@gmail.com
+**Email:** samruddhishejal913@gmail.com
 
-💻 **GitHub:** github.com/Samruddhi-Shejal
+**GitHub:** https://github.com/Samruddhi-Shejal
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile!
